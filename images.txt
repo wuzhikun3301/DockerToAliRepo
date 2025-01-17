@@ -2,6 +2,7 @@
 #nginx:1.27.2
 mysql:8.4.3
 mysql:5.7
+mysql:5.1
 nginx:latest
 mysql:latest
 openjdk:11-jre
