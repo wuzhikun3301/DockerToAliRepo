@@ -7,6 +7,7 @@ mysql:5.6
 nginx:latest
 mysql:latest
 openjdk:11-jre
+openjdk:11-jre-slim
 #nacos/nacos-server:v2.4.3
 #nacos/nacos-server:v2.1.0
 #redis
